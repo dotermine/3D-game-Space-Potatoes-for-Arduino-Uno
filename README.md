@@ -1,6 +1,6 @@
 # 3D-game-Space-Potatoes-for-Arduino-Uno
 
-1. The name and idea of the game
+**1. The name and idea of the game**
 
 The idea of the game itself and the name " Space Potatoes " is a reference to Stanislav Lem's series of stories about Ijon Tichy, namely "The Twenty-Fifth Journey", in which the main character recalls how, not far from the planet Tairia, he was attacked by a predatory potato.
 The project's engine was based on the Doom for Arduino project. Uno " by daveruiz (https://github.com/daveruiz/doom-nano).
@@ -10,7 +10,7 @@ The project's engine was based on the Doom for Arduino project. Uno " by daverui
 <img width="196" height="98" alt="spgif" src="https://github.com/user-attachments/assets/d9822549-abf3-43f0-a217-47cc5ac4918d" />
 
 
-2. Project composition
+**2. Project composition**
 
 •	Arduino Uno (ATmega328P)
 •	OLED 0.96" 128x64 (SSD1306)
