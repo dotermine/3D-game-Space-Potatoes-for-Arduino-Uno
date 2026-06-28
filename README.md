@@ -8,6 +8,7 @@ The project's engine was based on the Doom for Arduino project "Uno" by daveruiz
 
 <img width="197" height="104" alt="image" src="https://github.com/user-attachments/assets/e003de37-29c5-4dc1-9792-904a7e7a8947" />
 <img width="196" height="98" alt="spgif" src="https://github.com/user-attachments/assets/97c3a7ed-d304-4791-9795-7f92b2b318ae" />
+<img width="196" height="98" alt="ezgif-87827643ec9dd19a" src="https://github.com/user-attachments/assets/ffb0d3f6-9eea-4348-8726-33ff1a817d1a" />
 <img width="196" height="93" alt="SP3_room" src="https://github.com/user-attachments/assets/7e473bc3-2c77-43d4-b146-97eb00b62426" />
 <img width="205" height="100" alt="SP4_cheat" src="https://github.com/user-attachments/assets/67f2786c-6f6a-42b3-bae1-41cd7ae1c03d" />
 <img width="202" height="101" alt="SP5_4level" src="https://github.com/user-attachments/assets/d4fb8c1e-295f-4634-8e76-23f246da237e" />
