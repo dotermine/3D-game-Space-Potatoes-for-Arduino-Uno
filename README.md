@@ -90,6 +90,10 @@ The project's engine was based on the Doom for Arduino project "Uno" by daveruiz
 * **Good ending:** `"TO INFINITY AND BEYOND"` (phrase Buzz Lightyear, Toy Story)
 * **Bad Ending:** `"WASTED"` (GTA Death Screen)
 
+<img width="3958" height="2359" alt="11IMG_20260628_191202 (1)" src="https://github.com/user-attachments/assets/16ed63d0-0427-4978-85fd-36eba97a45ec" />
+
+<img width="320" height="255" alt="ezgif-1694aa8d8801bca8" src="https://github.com/user-attachments/assets/e40cf2d8-4355-425e-8955-2eb37d3d5695" />
+
 
 
 
