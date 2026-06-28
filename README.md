@@ -54,6 +54,9 @@ The project's engine was based on the Doom for Arduino project "Uno" by daveruiz
 | FIRE button | 1 | D7 | Entrance with a lift |
 | USE button | 1 | D8 | Entrance with a lift |
 
+<img width="556" height="717" alt="image" src="https://github.com/user-attachments/assets/2ee83c34-dbc9-4cff-9cfb-391099e63709" />
+
+
 ### Controls
 
 * **LEFT** — Turn left
