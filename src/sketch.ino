@@ -99,7 +99,7 @@ const char* const cheat_menu_items[] PROGMEM = {
 
 const char msg_weapon_blaster[] PROGMEM = "DL 44";
 const char msg_weapon_plasma_cutter[] PROGMEM = "211 V";
-const char msg_weapon_bfg9000[] PROGMEM = "BFG";
+const char msg_weapon_bfg9000[] PROGMEM = "BFG 9000";
 const char msg_book_cyberiad[] PROGMEM = "CYBERIAD";
 const char msg_book_solaris[] PROGMEM = "SOLARIS";
 const char msg_book_invincible[] PROGMEM = "INVINCIBLE";
