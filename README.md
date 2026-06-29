@@ -7,8 +7,7 @@ The idea of the game itself and the name "Space Potatoes" is a reference to Stan
 The project's engine was based on the Doom for Arduino project "Uno" by daveruiz ([github.com/daveruiz/doom-nano](https://github.com/daveruiz/doom-nano)).
 
 <img width="197" height="104" alt="image" src="https://github.com/user-attachments/assets/e003de37-29c5-4dc1-9792-904a7e7a8947" />
-<img width="320" height="158" alt="image" src="https://github.com/user-attachments/assets/4431b677-8109-4bce-8870-47621b4df5ab" />
-<img width="320" height="158" alt="image" src="https://github.com/user-attachments/assets/fd5e8393-ded3-4553-8e0c-28726af066f0" />
+
 <img width="272" height="127" alt="image" src="https://github.com/user-attachments/assets/6b8d6ad2-22d0-4c1b-8cd9-6b6ffcaffbd2" />
 <img width="265" height="127" alt="image" src="https://github.com/user-attachments/assets/e5d5406c-0502-446b-9f4b-5f5ce42838f6" />
 <img width="261" height="122" alt="image" src="https://github.com/user-attachments/assets/4964702f-4ead-455a-ad03-a9bd5d7bd127" />
