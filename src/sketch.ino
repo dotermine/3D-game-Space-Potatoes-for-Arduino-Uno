@@ -67,10 +67,10 @@ uint8_t cheat_progress = 0;         // Cheat code progress
 bool cheat_menu_showing = false;    // Cheat menu visibility
 uint8_t cheat_menu_selection = 0;   // Cheat menu selection
 
-// Rotation constants
-constexpr float ROT_SIN = 0.2f;     // Rotation sine factor
-constexpr float ROT_COS = 0.98f;    // Rotation cosine factor
-
+// Rotation constants 
+constexpr float ROT_SIN = 0.12f;    // Rotation sine factor
+constexpr float ROT_COS = 0.992f;  // Rotation cosine factor
+ 
 //=============================================================================
 // LEVEL DATA
 //=============================================================================
